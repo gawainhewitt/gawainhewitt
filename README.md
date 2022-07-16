@@ -4,8 +4,6 @@ I bring 19 years of experience as a freelance creative working with communities,
 
 After years of self directed learning I recently completed the Makers Academy bootcamp to refine my practice. I am a big believer in test driven development and pair programming, and I like to write code that is easy to read and easy to change. 
 
-You can find out more about me at the following links:
-
 * [My CV](https://github.com/gawainhewitt/CV)
 * [My Website](https://gawainhewitt.co.uk/)
 * [My Blog](https://gawainhewitt.co.uk/blog/)
