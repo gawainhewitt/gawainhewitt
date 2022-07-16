@@ -2,7 +2,7 @@
 
 I bring 19 years of experience as a freelance creative working with communities, businesses, voluntary organisations and private clients, developing technologies and driving innovation in music and art.
 
-I write software that is well tested, easy to read and easy to change and I recently completed the Makers Academy bootcamp to refine my practice. I am a big believer in test driven development and pair programming, and love to work in teams. 
+I recently completed the Makers Academy bootcamp to refine my practice. I am a big believer in test driven development and pair programming, and I like to write code that is easy to read and easy to change. 
 
 You can find out more about me at the following links:
 
