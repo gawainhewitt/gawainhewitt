@@ -6,7 +6,7 @@ After years of self directed learning I recently completed the Makers Academy bo
 
 You can find out more about me at the following links:
 
-* [GitHub Cv](https://github.com/gawainhewitt/CV)
+* [My CV](https://github.com/gawainhewitt/CV)
 * [My Website](https://gawainhewitt.co.uk/)
 * [My Blog](https://gawainhewitt.co.uk/blog/)
 * [LinkedIn](https://www.linkedin.com/in/gawainhewitt/)
